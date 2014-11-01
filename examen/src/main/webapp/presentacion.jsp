@@ -14,4 +14,5 @@
     <body>
         <h1>Resultado de calificaciones</h1>
     </body>
+    <%  %>
 </html>
